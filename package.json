@@ -1,0 +1,27 @@
+{
+  "name": "range_lookup",
+  "license": "Apache License 2.0",
+  "main": "range_lookup.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshit-shah/range_lookup.git"
+  },
+  "keywords": [
+    "range",
+    "lookup",
+    "range lookup"
+  ],
+  "author": "Darshit Shah",
+  "bugs": {
+    "url": "https://github.com/darshit-shah/range_lookup/issues"
+  },
+  "homepage": "https://github.com/darshit-shah/range_lookup",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "lookup based on predifined ranges",
+  "version": "0.0.1"
+}
