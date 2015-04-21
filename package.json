@@ -23,5 +23,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "description": "lookup based on predifined ranges",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
